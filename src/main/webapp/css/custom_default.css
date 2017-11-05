@@ -24,6 +24,12 @@ $colorBackground: #F5F5F5;
 		background-image: url(../images/bg_t.png);
 		height: 367px;
 		position: relative;
+		background-size: cover;
+		-webkit-filter: opacity(50%);
+    -moz-filter: opacity(75%);
+    -o-filter: opacity(75%);
+    -ms-filter: opacity(75%);
+    filter: opacity(75%);
 	}
 
 	#wrapper {
@@ -108,7 +114,7 @@ $colorBackground: #F5F5F5;
 			}
 		}
 	}
-	
+
 	#sitesearch {
 		.site-search-button {
 			background-color: #6A6A6A;
