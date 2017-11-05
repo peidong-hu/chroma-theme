@@ -15,7 +15,10 @@
 @import "mixins";
 
 $colorBackground: #F5F5F5;
-
+#subbanner {
+	color:#FFFFFF !important;
+}
+#breadcrumbs { display:none; }
 .aui .color-scheme-default {
 	padding: 0;
 	background: $colorBackground;

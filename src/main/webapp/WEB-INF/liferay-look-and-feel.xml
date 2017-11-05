@@ -100,7 +100,7 @@
 					);
 				]]>
 			</setting>
-			<setting  configurable="true" type="text" key="theme-color-highlight" value="#EFEFEF">
+			<setting  configurable="true" type="text" key="theme-color-highlight" value="#434343">
 				<![CDATA[
 					AUI().ready(
 						'aui-color-picker-popover',
