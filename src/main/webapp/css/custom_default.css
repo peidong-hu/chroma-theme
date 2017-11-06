@@ -18,7 +18,14 @@ $colorBackground: #F5F5F5;
 #subbanner {
 	color:#FFFFFF !important;
 }
+.aui .breadcrumb {
+	display:none;
+}
 #breadcrumbs { display:none; }
+
+#main-content {
+	padding: 20px 200px;
+}
 .aui .color-scheme-default {
 	padding: 0;
 	background: $colorBackground;
